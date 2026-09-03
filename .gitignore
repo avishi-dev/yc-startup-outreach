@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+yc_outreach_database.xlsx
+yc_outreach_database.csv
