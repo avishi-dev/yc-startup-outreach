@@ -14,7 +14,7 @@ Columns include company, YC batch, headquarters email, and up to two founders wi
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/avishi-dev/yc-startup-outreach
 cd yc-outreach
 python -m venv .venv
 source .venv/bin/activate
